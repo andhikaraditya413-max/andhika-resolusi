@@ -1,3 +1,4 @@
 WPU RESOLUSI
 -konsisten belajar tentang git,github
 mboh ws poko e belajar git github git clone, git add, git push, git pull
+sekarang saya sudah paham tentang git clone
